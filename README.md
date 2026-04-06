@@ -63,8 +63,10 @@ python scanner.py --url http://testphp.vulnweb.com --output html
 
 # Generate JSON report
 python scanner.py --url http://testphp.vulnweb.com --output json
-
 # See all options
+
+<img width="885" height="830" alt="image" src="https://github.com/user-attachments/assets/7a154535-42a8-4cf9-848d-eab9a0ed6927" />
+
 python scanner.py --help
 ```
 
